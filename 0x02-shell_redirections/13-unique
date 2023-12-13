@@ -1,0 +1,2 @@
+#!/bin/bash
+cat words.txt | ./find_single_occurrence.sh
